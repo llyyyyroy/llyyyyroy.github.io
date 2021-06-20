@@ -1,2 +1,3 @@
 # llyyyyroy.github.io
-ailihaosi
+
+日安。如果你是在图书馆的 《一分钟学会在图书馆投稿：从入门到精通》中的GitHub信息卡看到此条信息，则代表该信息卡有效
